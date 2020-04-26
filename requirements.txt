@@ -1,0 +1,12 @@
+keras
+sklearn
+matplotlib
+pandas
+tensorflow
+sqlalchemy
+jsonpickle
+google-cloud
+oauth2client
+google-cloud-storage
+google-cloud-bigquery
+
